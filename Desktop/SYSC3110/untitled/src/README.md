@@ -1,4 +1,4 @@
-# Assignment 3 - Question 1 Author Nitish Grover
+# Assignment 3 - Question 1 Author Nitish Grover 101324174
 ## Database Interaction with PostgreSQL and Application Programming
 
 ### 📘 Overview
