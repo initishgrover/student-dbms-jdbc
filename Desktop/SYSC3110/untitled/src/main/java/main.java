@@ -6,7 +6,7 @@ public class main {
     public static void main(String[] args) {
         String url = "jdbc:postgresql://localhost:5432/school";
         String user = "postgres";
-        String password = "2246"; // Replace with your PostgreSQL password
+        String password = "2246"; 
 
         try {
             // Load PostgreSQL JDBC Driver
