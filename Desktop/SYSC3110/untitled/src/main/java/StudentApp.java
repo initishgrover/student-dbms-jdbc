@@ -100,7 +100,7 @@ public class StudentApp {
         getAllStudents();
 
         // Update Alice's email
-       updateStudentEmail(12, "alice.new@example.com"); // assuming her id = 4 after insert
+       updateStudentEmail(12, "alice.new@example.com");
 
         // Verify update
         getAllStudents();
