@@ -3,8 +3,8 @@ import java.sql.*;
 public class StudentApp {
     // Database connection info
     private static final String URL = "jdbc:postgresql://localhost:5432/school";
-    private static final String USER = "postgres";              // change if different
-    private static final String PASSWORD = "2246"; // ← replace with your actual password
+    private static final String USER = "postgres";              
+    private static final String PASSWORD = "2246"; 
 
     // Open a new connection
     private static Connection connect() throws SQLException {
